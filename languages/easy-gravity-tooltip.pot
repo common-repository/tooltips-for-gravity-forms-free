@@ -1,0 +1,147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Easy Gravity Tooltip\n"
+"POT-Creation-Date: 2020-12-24 17:48+0330\n"
+"PO-Revision-Date: 2020-12-24 17:47+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-gfeasytooltip.php:201
+msgid "Tooltip Content"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:247
+msgid "Easy Tooltip Settings"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:251
+msgid "Show tooltip icon"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:254
+msgid "If you enable this option an icon will be displayed beside the label."
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:257
+msgid "Enabled"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:265
+msgid "Tooltip Position"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:269
+msgid "Choose the position of tooltip (more options in pro version)"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:272
+msgid "top"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:276
+msgid "bottom"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:282
+msgid "Trigger Open"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:285
+msgid "When a tooltip should open (more options in pro version)"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:288
+msgid "Hover"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:293 admin/class-gfeasytooltip.php:310
+msgid "Click"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:300
+msgid "Trigger Close"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:303
+msgid "When a tooltip should close (more options in pro version)"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:306
+msgid "Mouse Leave"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:316
+msgid "Animation"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:319
+msgid "Determines how the tooltip will animate in and out"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:322
+msgid "Fade"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:326
+msgid "Grow"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:333
+msgid "Theme"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:336
+msgid "Custom built styles (more styles in pro version)"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:339
+msgid "Gray"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:343
+msgid "Punk"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:347
+msgid "Light Gray"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:354
+msgid "Delay Start"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:357
+msgid ""
+"This is the delay before the tooltip starts its opening and closing in "
+"ms(Default: 300)"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:380
+msgid "My custom field contains a few settings:"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:434
+msgid "Easy gravity tooltip New Update available"
+msgstr ""
+
+#: admin/class-gfeasytooltip.php:435
+#, php-format
+msgid ""
+"Please <a href=\"%s\">update</a> <strong>Easy Gravity Tooltip</strong> to "
+"fix bugs and add new features."
+msgstr ""
